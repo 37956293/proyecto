@@ -1,0 +1,125 @@
+﻿  cliente.cpp
+  mysql_c.cpp
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\cliente.h(43,181): error C2065: 'genero': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\cliente.h(43,210): error C2065: 'correo_electronico': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\cliente.h(43,181): error C2065: 'genero': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\cliente.h(43,210): error C2065: 'correo_electronico': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(9,5): error C3646: 'string': especificador de invalidación desconocido
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(9,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(10,9): error C2086: 'int telefono': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(9,44):
+  vea la declaración de 'telefono'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,16): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,12): error C2440: 'inicializando': no se puede realizar la conversión de 'initializer list' a 'int'
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,12):
+  El inicializador contiene demasiados elementos
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(13,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(13,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(13,5): error C2086: 'int cout': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,5):
+  vea la declaración de 'cout'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(13,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(14,16): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(14,5): error C2374: 'getline': nueva definición; inicialización múltiple
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,5):
+  vea la declaración de 'getline'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(14,18): error C2065: 'nombre': identificador no declarado
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(15,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(15,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(15,5): error C2086: 'int cout': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,5):
+  vea la declaración de 'cout'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(15,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(16,16): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(16,5): error C2374: 'getline': nueva definición; inicialización múltiple
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,5):
+  vea la declaración de 'getline'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(17,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(17,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(17,5): error C2086: 'int cout': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,5):
+  vea la declaración de 'cout'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(17,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(18,16): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(18,5): error C2374: 'getline': nueva definición; inicialización múltiple
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(12,5):
+  vea la declaración de 'getline'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(19,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(19,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(19,5): error C2086: 'int cout': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,5):
+  vea la declaración de 'cout'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(19,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(20,9): error C2143: error de sintaxis: falta ';' delante de '>>'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(20,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(20,9): error C2059: error de sintaxis: '>>'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,5): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,8): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,9): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,15): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,5): error C2086: 'int cin': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(20,5):
+  vea la declaración de 'cin'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(21,9): error C2146: error de sintaxis: falta ';' delante del identificador 'ignore'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(22,10): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(22,10): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(22,5): error C2086: 'int cout': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(11,5):
+  vea la declaración de 'cout'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(22,10): error C2059: error de sintaxis: '<<'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(23,9): error C2143: error de sintaxis: falta ';' delante de '>>'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(23,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(23,5): error C2086: 'int cin': nueva definición
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(20,5):
+  vea la declaración de 'cin'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(23,9): error C2059: error de sintaxis: '>>'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(25,27): error C2065: 'nombre': identificador no declarado
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,5): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,6): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,7): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,12): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,5): error C2371: 'c': nueva definición; tipos básicos distintos
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(25,14):
+  vea la declaración de 'c'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(26,7): error C2146: error de sintaxis: falta ';' delante del identificador 'crear'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,5): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,6): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,7): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,5): error C2371: 'c': nueva definición; tipos básicos distintos
+  C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(25,14):
+  vea la declaración de 'c'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(27,7): error C2146: error de sintaxis: falta ';' delante del identificador 'leer'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(28,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(28,5): error C2365: 'system': nueva definición; la definición anterior era 'función'
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1211,26):
+  vea la declaración de 'system'
+  
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(29,5): error C2059: error de sintaxis: 'return'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(30,1): error C2059: error de sintaxis: '}'
+C:\Users\Usuario\Desktop\proyecto\c++\mysql_c\mysql_c.cpp(30,1): error C2143: error de sintaxis: falta ';' delante de '}'
